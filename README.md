@@ -4,7 +4,7 @@ React
 ![Screenshot_1](https://user-images.githubusercontent.com/43640476/235979383-319ce69e-bae7-48eb-ac0f-21e801c6c5c2.png)
 
 
-![Screenshot_1](https://prnt.sc/i62ZG6SetVEf)
+
 
 
 
